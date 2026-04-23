@@ -87,8 +87,7 @@ banking-automation/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/banking-automation.git
-
+git clone https://github.com/kj2018traders-art/banking-automation.git
 ### 2️⃣ Open Project
 
 Import into **Eclipse** 
